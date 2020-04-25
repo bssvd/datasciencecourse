@@ -1,2 +1,2 @@
 # datasciencecourse
- task from course 'Machine learning and data analysis
+ Tasks from the course "Machine learning and data analysis" Yandex & MIPT
